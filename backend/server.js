@@ -134,7 +134,10 @@ app.post('/send-message', async (req, res) => {
 // });
 
 // ─── Start ────────────────────────────────────────────────────────────────────
-app.listen(PORT, () => {
-  console.log(`[Server] Running on http://localhost:${PORT}`);
-  console.log(`[Server] POST /send-message  →  sends email to ${process.env.MAIL_TO}`);
-});
+if (require.main === module) {
+  app.listen(PORT, () => {
+    console.log(`[Server] Running on http://localhost:${PORT}`);
+  });
+}
+
+module.exports = app;
