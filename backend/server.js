@@ -15,10 +15,10 @@ const app  = express();
 const PORT = process.env.PORT || 3000;
 
 // ─── CORS ─────────────────────────────────────────────────────────────────────
-const allowedOrigins = ('https://www.sportsdafabet.vip', 'https://sportsdafabet.vip')
-  .split(',')
-  .map(origin => origin.trim().replace(/\/+$/, ''))
-  .filter(Boolean);
+const allowedOrigins = [
+  'https://www.sportsdafabet.vip',
+  'https://sportsdafabet.vip'
+];
 
 const corsOptions = {
   origin: (origin, callback) => {
