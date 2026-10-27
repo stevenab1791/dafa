@@ -17,21 +17,24 @@ const PORT = process.env.PORT || 3000;
 // ─── CORS ─────────────────────────────────────────────────────────────────────
 const allowedOrigins = (process.env.CORS_ORIGIN || '')
   .split(',')
-  .map(o => o.trim())
+  .map(origin => origin.trim().replace(/\/+$/, ''))
   .filter(Boolean);
 
-app.use(cors({
-  origin: function (origin, callback) {
-    // Allow requests with no origin (e.g. curl, Postman, same-origin)
-    if (!origin) return callback(null, true);
-    if (allowedOrigins.length === 0 || allowedOrigins.includes(origin)) {
+const corsOptions = {
+  origin: (origin, callback) => {
+    if (!origin || allowedOrigins.includes(origin)) {
       return callback(null, true);
     }
-    callback(new Error(`CORS policy: origin "${origin}" not allowed`));
+
+    console.warn(`[CORS] Blocked origin: ${origin}`);
+    return callback(null, false);
   },
-  methods: ['POST', 'OPTIONS'],
+  methods: ['GET', 'POST', 'OPTIONS'],
   allowedHeaders: ['Content-Type'],
-}));
+  optionsSuccessStatus: 204
+};
+
+app.use(cors(corsOptions));
 
 // ─── Body Parsing ─────────────────────────────────────────────────────────────
 app.use(express.json());
