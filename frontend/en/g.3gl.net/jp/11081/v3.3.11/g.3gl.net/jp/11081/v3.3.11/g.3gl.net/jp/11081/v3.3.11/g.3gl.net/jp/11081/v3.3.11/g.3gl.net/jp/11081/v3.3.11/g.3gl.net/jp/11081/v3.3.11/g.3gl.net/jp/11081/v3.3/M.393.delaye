@@ -1,0 +1,956 @@
+<!DOCTYPE html>
+<html>
+
+<!-- Mirrored from m.dfbocai.net/en/g.3gl.net/jp/11081/v3.3.11/g.3gl.net/jp/11081/v3.3.11/g.3gl.net/jp/11081/v3.3.11/g.3gl.net/jp/11081/v3.3.11/g.3gl.net/jp/11081/v3.3.11/g.3gl.net/jp/11081/v3.3.11/g.3gl.net/jp/11081/v3.3.11/g.3gl.net/jp/11081/v3.3.11/g.3gl.net/jp/11081/v3.3.11/g.3gl.net/jp/11081/v3.3.11/g.3gl.net/jp/11081/v3.3.11/g.3gl.net/jp/11081/v3.3.11/g.3gl.net/jp/11081/v3.3.11/g.3gl.net/jp/11081/v3.3.11/g.3gl.net/jp/11081/v3.3.11/g.3gl.net/jp/11081/v3.3.11/g.3gl.net/jp/11081/v3.3.11/g.3gl.net/jp/11081/v3.3.11/g.3gl.net/jp/11081/v3.3.11/g.3gl.net/jp/11081/v3.3.11/g.3gl.net/jp/11081/v3.3.11/g.3gl.net/jp/11081/v3.3.11/g.3gl.net/jp/11081/v3.3.11/g.3gl.net/jp/11081/v3.3.11/M by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 18 Nov 2024 05:37:28 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<head>
+    <link rel="manifest" href="../../../../../../../../../../../../../../../../../../../../../../../../../../../../manifest.json">
+    <link rel="shortcut icon" type="image/x-icon" href="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../images/favicon.ico"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=0">
+    <meta name="theme-color" content="#af0000">
+
+        <title>404</title>
+        
+
+                        <meta
+                    name="google-site-verification"
+                    content="DtEqyGk4NQlY3e5rac5zMwlqzTRqltG5QnC8q1HGFY4"
+                />
+    
+    
+
+        
+
+                        <script>
+    window.addEventListener("load", function() {
+         if (document.querySelector("body").getAttribute("data-language") !== 'es') {
+             return;
+         }
+
+    var thirdPartyScript = document.getElementsByTagName('head')[0];
+    var gtagScript = document.createElement('script');
+    gtagScript.type = 'text/javascript';
+    gtagScript.async = 'true';
+    gtagScript.src = 'https://www.googletagmanager.com/gtag/js?id=G-MN6R22C10R';
+
+        // Add delay before calling the 3rd party script
+    setTimeout(function () {
+        thirdPartyScript.appendChild(gtagScript);
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-MN6R22C10R');
+    }, 3000);
+    });
+</script>
+            <script>
+    window.addEventListener("load", function() {
+         if (document.querySelector("body").getAttribute("data-language") !== 'pt') {
+             return;
+         }
+
+    var thirdPartyScript = document.getElementsByTagName('head')[0];
+    var gtagScript = document.createElement('script');
+    gtagScript.type = 'text/javascript';
+    gtagScript.async = 'true';
+    gtagScript.src = 'https://www.googletagmanager.com/gtag/js?id=G-1SRSEKL497';
+
+        // Add delay before calling the 3rd party script
+    setTimeout(function () {
+        thirdPartyScript.appendChild(gtagScript);
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-1SRSEKL497');
+    }, 3000);
+    });
+</script>
+            <style>
+.mobile-exchange footer-mobile-item + .footer-language  {
+    visibility: hidden;
+    display: none;
+}
+</style>
+            <style>
+.xlider-blurb.bottom {
+    background: rgba(0,0,0,0.6);
+    padding-bottom: 2rem;
+    margin-bottom: -2rem;
+}
+</style>
+            <script>var generateUniqueID=function(){return"v2-"+Date.now()+"-"+(Math.floor(Math.random()*8999999999999)+1e12)},firstHiddenTime=-1,initHiddenTime=function(){return document.visibilityState==="hidden"?0:Infinity},trackChanges=function(){onHidden(function(n){var t=n.timeStamp;firstHiddenTime=t},!0)},getVisibilityWatcher=function(){return firstHiddenTime<0&&(window.__WEB_VITALS_POLYFILL__?(firstHiddenTime=window.webVitals.firstHiddenTime,firstHiddenTime===Infinity&&trackChanges()):(firstHiddenTime=initHiddenTime(),trackChanges()),onBFCacheRestore(function(){setTimeout(function(){firstHiddenTime=initHiddenTime();trackChanges()},0)})),{get firstHiddenTime(){return firstHiddenTime}}},getRating=function(n,t){return n>t[1]?"poor":n>t[0]?"needs-improvement":"good"},bindReporter=function(n,t,i,r){var u,f;return function(e){t.value>=0&&(e||r)&&(f=t.value-(u||0),(f||u===undefined)&&(u=t.value,t.delta=f,t.rating=getRating(t.value,i),n(t)))}},onHidden=function(n,t){var i=function(r){(r.type==="pagehide"||document.visibilityState==="hidden")&&(n(r),t&&(removeEventListener("visibilitychange",i,!0),removeEventListener("pagehide",i,!0)))};addEventListener("visibilitychange",i,!0);addEventListener("pagehide",i,!0)},observe=function(n,t,i){try{if(PerformanceObserver.supportedEntryTypes.includes(n)){var r=new PerformanceObserver(function(n){Promise.resolve().then(function(){t(n.getEntries())})});return r.observe(Object.assign({type:n,buffered:!0},i||{})),r}}catch(u){}return},doubleRAF=function(n){requestAnimationFrame(function(){return requestAnimationFrame(function(){return n()})})},FCPThresholds=[1800,3e3],getFCP=function(n,t){whenActivated(function(){var f=getVisibilityWatcher(),i=initMetric("FCP"),r,e=function(n){n.forEach(function(n){n.name==="first-contentful-paint"&&(u.disconnect(),n.startTime<f.firstHiddenTime&&(i.value=Math.max(n.startTime-getActivationStart(),0),i.entries.push(n),r(!0)))})},u=observe("paint",e);u&&(r=bindReporter(n,i,FCPThresholds,t),onBFCacheRestore(function(u){i=initMetric("FCP");r=bindReporter(n,i,FCPThresholds,t);doubleRAF(function(){i.value=performance.now()-u.timeStamp;r(!0)})}))})},getNavigationEntryFromPerformanceTiming=function(){var t=performance.timing,i=performance.navigation.type,r={entryType:"navigation",startTime:0,type:i==2?"back_forward":i===1?"reload":"navigate"};for(var n in t)n!=="navigationStart"&&n!=="toJSON"&&(r[n]=Math.max(t[n]-t.navigationStart,0));return r},getNavigationEntry=function(){return window.__WEB_VITALS_POLYFILL__?window.performance&&(performance.getEntriesByType&&performance.getEntriesByType("navigation")[0]||getNavigationEntryFromPerformanceTiming()):window.performance&&performance.getEntriesByType&&performance.getEntriesByType("navigation")[0]},bfcacheRestoreTime=-1,getBFCacheRestoreTime=function(){return bfcacheRestoreTime},onBFCacheRestore=function(n){addEventListener("pageshow",function(t){t.persisted&&(bfcacheRestoreTime=t.timeStamp,n(t))},!0)},getActivationStart=function(){var n=getNavigationEntry();return n&&n.activationStart||0},initMetric=function(n,t){var r=getNavigationEntry(),i="navigate";return getBFCacheRestoreTime()>=0?i="back-forward-cache":r&&(document.prerendering||getActivationStart()>0?i="prerender":document.wasDiscarded?i="restore":r.type&&(i=r.type.replace(/_/g,"-"))),{name:n,value:typeof t=="undefined"?-1:t,rating:"good",delta:0,entries:[],id:generateUniqueID(),navigationType:i}},reportedMetricIDs={},LCPThresholds=[2500,4e3],getLCP=function(n,t){whenActivated(function(){var o=getVisibilityWatcher(),i=initMetric("LCP"),r,e=function(n){var t=n[n.length-1];t&&t.startTime<o.firstHiddenTime&&(i.value=Math.max(t.startTime-getActivationStart(),0),i.entries=[t],r(!1))},u=observe("largest-contentful-paint",e),f;u&&(r=bindReporter(n,i,LCPThresholds,t),f=runOnce(function(){reportedMetricIDs[i.id]||(e(u.takeRecords()),u.disconnect(),reportedMetricIDs[i.id]=!0,r(!0))}),["keydown","click"].forEach(function(n){addEventListener(n,f,!0)}),onHidden(f),onBFCacheRestore(function(u){i=initMetric("LCP");r=bindReporter(n,i,LCPThresholds,t);doubleRAF(function(){i.value=performance.now()-u.timeStamp;reportedMetricIDs[i.id]=!0;r(!0)})}))})},runOnce=function(n){var t=!1;return function(i){t||(n(i),t=!0)}},CLSThresholds=[.1,.25],getCLS=function(n,t){getFCP(runOnce(function(){var i=initMetric("CLS",0),r,u=0,f=[],e=function(n){n.forEach(function(n){if(!n.hadRecentInput){var t=f[0],i=f[f.length-1];u&&n.startTime-i.startTime<1e3&&n.startTime-t.startTime<5e3?(u+=n.value,f.push(n)):(u=n.value,f=[n])}});u>i.value&&(i.value=u,i.entries=f,r(!0))},o=observe("layout-shift",e);o&&(r=bindReporter(n,i,CLSThresholds,t),onHidden(function(){e(o.takeRecords());r(!0)}),onBFCacheRestore(function(){u=0;i=initMetric("CLS",0);r=bindReporter(n,i,CLSThresholds,t);doubleRAF(function(){return r()})}),setTimeout(r,0))}))},whenActivated=function(n){document.prerendering?addEventListener("prerenderingchange",function(){return n()},!0):n()},interactionCountEstimate=0,minKnownInteractionId=Infinity,maxKnownInteractionId=0,updateEstimate=function(n){n.forEach(function(n){n.interactionId&&(minKnownInteractionId=Math.min(minKnownInteractionId,n.interactionId),maxKnownInteractionId=Math.max(maxKnownInteractionId,n.interactionId),interactionCountEstimate=maxKnownInteractionId?(maxKnownInteractionId-minKnownInteractionId)/7+1:0)})},po,getInteractionCount=function(){return po?interactionCountEstimate:performance.interactionCount||0},initInteractionCountPolyfill=function(){"interactionCount"in performance||po||(po=observe("event",updateEstimate,{type:"event",buffered:!0,durationThreshold:0}))},INPThresholds=[200,500],prevInteractionCount=0,getInteractionCountForNavigation=function(){return getInteractionCount()-prevInteractionCount},MAX_INTERACTIONS_TO_CONSIDER=10,longestInteractionList=[],longestInteractionMap={},processEntry=function(n){var r=longestInteractionList[longestInteractionList.length-1],t=longestInteractionMap[n.interactionId],i;(t||longestInteractionList.length<MAX_INTERACTIONS_TO_CONSIDER||n.duration>r.latency)&&(t?(t.entries.push(n),t.latency=Math.max(t.latency,n.duration)):(i={id:n.interactionId,latency:n.duration,entries:[n]},longestInteractionMap[i.id]=i,longestInteractionList.push(i)),longestInteractionList.sort(function(n,t){return t.latency-n.latency}),longestInteractionList.splice(MAX_INTERACTIONS_TO_CONSIDER).forEach(function(n){delete longestInteractionMap[n.id]}))},estimateP98LongestInteraction=function(){var n=Math.min(longestInteractionList.length-1,Math.floor(getInteractionCountForNavigation()/50));return longestInteractionList[n]},getINP=function(n,t){t=t||{};whenActivated(function(){initInteractionCountPolyfill();var i=initMetric("INP"),r,f=function(n){n.forEach(function(n){if(n.interactionId&&processEntry(n),n.entryType==="first-input"){var t=!longestInteractionList.some(function(t){return t.entries.some(function(t){return n.duration===t.duration&&n.startTime===t.startTime})});t&&processEntry(n)}});var t=estimateP98LongestInteraction();t&&t.latency!==i.value&&(i.value=t.latency,i.entries=t.entries,r(!0))},u=observe("event",f,{durationThreshold:t.durationThreshold||40});r=bindReporter(n,i,INPThresholds,t.reportAllChanges);u&&("interactionId"in PerformanceEventTiming.prototype&&u.observe({type:"first-input",buffered:!0}),onHidden(function(){f(u.takeRecords());i.value<0&&getInteractionCountForNavigation()>0&&(i.value=0,i.entries=[]);r(!0)}),onBFCacheRestore(function(){longestInteractionList=[];prevInteractionCount=getInteractionCount();i=initMetric("INP");r=bindReporter(n,i,INPThresholds,t.reportAllChanges)}))})},windowCurrent=parent.window||window,WindowEvent,VisibilityType;(function(n){n.Load="load";n.BeforeUnload="beforeunload";n.Abort="abort";n.Error="error";n.Unload="unload"})(WindowEvent||(WindowEvent={})),function(n){n[n.Focus=0]="Focus";n[n.Blur=1]="Blur"}(VisibilityType||(VisibilityType={}));var AjaxTiming=function(){function n(n,t,i,r){var u=this;this.getPerformanceTimings=function(n){u.connect=n.connectEnd-n.connectStart;u.dns=n.domainLookupEnd-n.domainLookupStart;u.duration=n.duration;u.load=n.responseEnd-n.responseStart;u.wait=n.responseStart-n.requestStart;u.start=n.startTime;u.redirect=n.redirectEnd-n.redirectStart;n.secureConnectionStart&&(u.ssl=n.connectEnd-n.secureConnectionStart)};this.url=n;this.method=t;this.isAsync=i;this.open=r}return n}(),ProfilerJsError=function(){function n(n,t,i){this.count=0;this.message=n;this.url=t;this.lineNumber=i}return n.createText=function(n,t,i){return[n,t,i].join(":")},n.prototype.getText=function(){return n.createText(this.message,this.url,this.lineNumber)},n}(),ProfilerEventManager=function(){function n(){this.events=[];this.hasAttachEvent=!!window.attachEvent}return n.prototype.add=function(n,t,i){this.events.push({type:n,target:t,func:i});this.hasAttachEvent?t.attachEvent("on"+n,i):t.addEventListener(n,i,!1)},n.prototype.remove=function(n,t,i){this.hasAttachEvent?t.detachEvent(n,i):t.removeEventListener(n,i,!1);var r=this.events.indexOf({type:n,target:t,func:i});r!==1&&this.events.splice(r,1)},n.prototype.clear=function(){for(var n,i=this.events,t=0;t<i.length;t++)n=i[t],this.remove(n.type,n.target,n.func);this.events=[]},n}(),AjaxRequestsHandler=function(){function n(){var t=this;this.fetchRequests=[];this.fetchEntriesIndices={};this.compareEntriesDelay=100;this.hasPerformance=typeof performance=="object"&&typeof window.performance.now=="function"&&typeof window.performance.getEntriesByType=="function";this.captureFetchRequests=function(){var n=[],i=t,r=function(n){return n},u=function(n){return Promise.reject(n)};window.fetch&&(window.fetch=function(t){return function(){for(var o,f,s=[],e=0;e<arguments.length;e++)s[e]=arguments[e];return o=0,f=Promise.resolve(s),f=f.then(function(t){var r,u={},e,f;if(t.length&&t.length>=1)r=t[0],t.length>1&&(u=t[1]);else return[];return e="GET",u.method&&(e=u.method),o=n.length,f="",f=typeof r!="object"||!r?r:Array.isArray(r)&&r.length>0?r[0]:r.url,f&&n.push(new AjaxTiming(f,e,!0,i.now())),[r,u]},r),f=f.then(function(n){return t.apply(void 0,n)}),f.then(function(t){var r=n[o],u=i.fetchRequests;return i.processPerformanceEntries(r,u),t},u)}}(window.fetch))};this.captureFetchRequests();n.startAjaxCapture(this)}return n.prototype.getAjaxRequests=function(){return this.fetchRequests},n.prototype.clear=function(){this.fetchRequests=[]},n.prototype.now=function(){return this.hasPerformance?window.performance.now():(new Date).getTime()},n.prototype.processPerformanceEntries=function(n,t){var i=this;setTimeout(function(){var f,o,s,h,e;if(i.hasPerformance){var u=n.url,r=[],c=performance.getEntriesByType("resource");for(f=0,o=c;f<o.length;f++)s=o[f],s.name===u&&r.push(s);if(t.push(n),r.length!==0){if(i.fetchEntriesIndices[u]||(i.fetchEntriesIndices[u]=[]),r.length===1){n.getPerformanceTimings(r[0]);i.fetchEntriesIndices[u].push(0);return}h=i.fetchEntriesIndices[u];for(e in r)if(h.indexOf(e)===-1){n.getPerformanceTimings(r[e]);h.push(e);return}n.getPerformanceTimings(r[0])}}},i.compareEntriesDelay)},n.startAjaxCapture=function(n){var t=XMLHttpRequest.prototype,r=t.open,u=t.send,i=[];n.hasPerformance&&typeof window.performance.setResourceTimingBufferSize=="function"&&window.performance.setResourceTimingBufferSize(300);t.open=function(t,u,f,e,o){this.rpIndex=i.length;i.push(new AjaxTiming(u,t,f,n.now()));r.call(this,t,u,f===!1?!1:!0,e,o)};t.send=function(t){var r=this,e=this.onreadystatechange,f;(this.onreadystatechange=function(t){var u=i[r.rpIndex],o,f;if(u){o=r.readyState;f=!!(r.response&&r.response!==null&&r.response!==undefined);switch(o){case 1:u.connectionEstablished=n.now();break;case 2:u.requestReceived=n.now();break;case 3:u.processingTime=n.now();break;case 4:u.complete=n.now();switch(r.responseType){case"text":case"":typeof r.responseText=="string"&&(u.responseSize=r.responseText.length);break;case"json":f&&typeof r.response.toString=="function"&&(u.responseSize=r.response.toString().length);break;case"arraybuffer":f&&typeof r.response.byteLength=="number"&&(u.responseSize=r.response.byteLength);break;case"blob":f&&typeof r.response.size=="number"&&(u.responseSize=r.response.size)}n.processPerformanceEntries(u,n.fetchRequests)}typeof e=="function"&&e.call(r,t)}},f=i[this.rpIndex],f)&&(t&&!isNaN(t.length)&&(f.sendSize=t.length),f.send=n.now(),u.call(this,t))}},n}(),RProfiler=function(){function n(){function r(n){var i=n.target||n.srcElement;return i.nodeType==3&&(i=i.parentNode),t("N/A",i.src||i.URL,-1),!1}var n=this,t,i;this.restUrl="M.3a7.delaye";this.startTime=(new Date).getTime();this.eventsTimingHandler=new EventsTimingHandler;this.inputDelay=new InputDelayHandler;this.version="v3.3.11";this.info={};this.hasInsight=!1;this.data={start:this.startTime,jsCount:0,jsErrors:[],loadTime:-1,loadFired:window.document.readyState=="complete"};this.eventManager=new ProfilerEventManager;this.setCLS=function(t){var i=t.name,r=t.delta,u=i==="CLS"?r:undefined;n.cls=u};this.setLCP=function(t){var i=t.name,r=t.delta,u=i==="LCP"?r:undefined;n.lcp=u};this.setINP=function(t){var i=t.name,r=t.value,u=i==="INP"?r:undefined;n.inp=u};this.recordPageLoad=function(){n.data.loadTime=(new Date).getTime();n.data.loadFired=!0};this.addError=function(t,i,r){var s,f,u,e,o;for(n.data.jsCount++,s=ProfilerJsError.createText(t,i,r),f=n.data.jsErrors,u=0,e=f;u<e.length;u++)if(o=e[u],o.getText()==s){o.count++;return}f.push(new ProfilerJsError(t,i,r))};this.getAjaxRequests=function(){return n.ajaxHandler.getAjaxRequests()};this.clearAjaxRequests=function(){n.ajaxHandler.clear()};this.addInfo=function(t,i,r){if(!n.isNullOrEmpty(t)){if(n.isNullOrEmpty(r))n.info[t]=i;else{if(n.isNullOrEmpty(i))return;n.isNullOrEmpty(n.info[t])&&(n.info[t]={});n.info[t][i]=r}n.hasInsight=!0}};this.clearInfo=function(){n.info={};n.hasInsight=!1};this.clearErrors=function(){n.data.jsCount=0;n.data.jsErrors=[]};this.getInfo=function(){return n.hasInsight?n.info:null};this.getEventTimingHandler=function(){return n.eventsTimingHandler};this.getInputDelay=function(){return n.inputDelay};this.getCPWebVitals=function(){return getCLS(n.setCLS,!1),getLCP(n.setLCP,!1),getINP(n.setINP,{reportAllChanges:!1}),{cls:n.cls,lcp:n.lcp,inp:n.inp}};this.attachIframe=function(){var r=window.location.protocol,t=document.createElement("iframe"),i;t.src="about:blank";i=t.style;i.position="absolute";i.top="-10000px";i.left="-1000px";t.addEventListener("load",function(t){var u=t.currentTarget,f,i;u&&u.contentDocument&&(f=u.contentDocument,i=f.createElement("script"),i.type="text/javascript",i.src=r+"//"+n.restUrl,f.body.appendChild(i))});document.body&&document.body.insertAdjacentElement("afterbegin",t)};this.eventManager.add(WindowEvent.Load,window,this.recordPageLoad);t=this.addError;this.ajaxHandler=new AjaxRequestsHandler;getCLS(this.setCLS,!1);getLCP(this.setLCP,!1);getINP(this.setINP,{reportAllChanges:!1});window.opera?this.eventManager.add(WindowEvent.Error,document,r):"onerror"in window&&(i=window.onerror,window.onerror=function(n,r,u){return(t(n,r,u),!!i)?i(n,r,u):!1});"onunhandledrejection"in window&&(window.onunhandledrejection=function(n){var r,u,f,e=(r=n.reason.stack)!==null&&r!==void 0?r:"",i=e!==""?e.split("at"):[],s=i[1]?i[1].replace(/:\d+/g,""):"",o=i[1]?i[1].match(/:\d+/g):[],h=o[0]?o[0].replace(":",""):0;t((f=(u=i[0])===null||u===void 0?void 0:u.trim())!==null&&f!==void 0?f:"N/A",s.trim(),h)});!window.__cpCdnPath||(this.restUrl=window.__cpCdnPath.trim())}return n.prototype.isNullOrEmpty=function(n){if(n===undefined||n===null)return!0;if(typeof n=="string"){var t=n;return t.trim().length==0}return!1},n.prototype.dispatchCustomEvent=function(n){(function(n){function t(n,t){t=t||{bubbles:!1,cancelable:!1,detail:undefined};var i=document.createEvent("CustomEvent");return i.initCustomEvent(n,t.bubbles,t.cancelable,t.detail),i}if(typeof n.CustomEvent=="function")return!1;t.prototype=Event.prototype;n.CustomEvent=t})(window);var t=new CustomEvent(n);window.dispatchEvent(t)},n}(),InputDelayHandler=function(){function n(){var n=this;this.firstInputDelay=0;this.firstInputTimeStamp=0;this.startTime=0;this.delay=0;this.profileManager=new ProfilerEventManager;this.eventTypes=["click","mousedown","keydown","touchstart","pointerdown",];this.addEventListeners=function(){n.eventTypes.forEach(function(t){n.profileManager.add(t,document,n.onInput)})};this.now=function(){return(new Date).getTime()};this.removeEventListeners=function(){n.eventTypes.forEach(function(t){n.profileManager.remove(t,document,n.onInput)})};this.onInput=function(t){var i,r,u;t.cancelable&&(i=t.timeStamp>1e12,n.firstInputTimeStamp=n.now(),r=i||!window.performance,u=r?n.firstInputTimeStamp:window.performance.now(),n.delay=u-t.timeStamp,t.type=="pointerdown"?n.onPointerDown():(n.removeEventListeners(),n.updateFirstInputDelay()))};this.onPointerUp=function(){n.removeEventListeners();n.updateFirstInputDelay()};this.onPointerCancel=function(){n.removePointerEventListeners()};this.removePointerEventListeners=function(){n.profileManager.remove("pointerup",document,n.onPointerUp);n.profileManager.remove("pointercancel",document,n.onPointerCancel)};this.updateFirstInputDelay=function(){n.delay>=0&&n.delay<n.firstInputTimeStamp-n.startTime&&(n.firstInputDelay=Math.round(n.delay))};this.startSoftNavigationCapture=function(){n.resetSoftNavigationCapture()};this.resetSoftNavigationCapture=function(){n.resetFirstInputDelay();n.addEventListeners()};this.resetFirstInputDelay=function(){n.delay=0;n.firstInputDelay=0;n.startTime=0;n.firstInputTimeStamp=0};this.startTime=this.now();this.addEventListeners()}return n.prototype.onPointerDown=function(){this.profileManager.add("pointerup",document,this.onPointerUp);this.profileManager.add("pointercancel",document,this.onPointerCancel)},n.prototype.getFirstInputDelay=function(){return this.firstInputDelay},n}(),EventsTimingHandler=function(){function n(){var n=this;this.hiddenStrings=["hidden","msHidden","webkitHidden","mozHidden"];this.visibilityStrings=["visibilitychange","msvisibilitychange","webkitvisibilitychange","mozvisibilitychange"];this.captureSoftNavigation=!1;this.hidden="hidden";this.visibilityChange="visibilitychange";this.visibilityEvents=[];this.eventManager=new ProfilerEventManager;this.engagementTimeIntervalMs=1e3;this.engagementTime=0;this.firstEngagementTime=0;this.lastEventTimeStamp=0;this.timeoutId=undefined;this.startTime=(new Date).getTime();this.now=function(){return(new Date).getTime()};this.startVisibilityCapture=function(){n.initializeVisibilityProperties();document.addEventListener(n.visibilityChange,n.captureFocusEvent,!1)};this.initializeVisibilityProperties=function(){for(var r=n.hiddenStrings,i=0,t=0;t<r.length;t++)typeof document[r[t]]!="undefined"&&(i=t);n.visibilityChange=n.visibilityStrings[i];n.hidden=n.hiddenStrings[i]};this.captureFocusEvent=function(){n.updateVisibilityChangeTime();document[n.hidden]||n.captureEngagementTime()};this.updateVisibilityChangeTime=function(){document[n.hidden]?n.captureVisibilityEvent(VisibilityType.Blur):n.captureVisibilityEvent(VisibilityType.Focus)};this.onBlur=function(){n.captureVisibilityEvent(VisibilityType.Blur)};this.onFocus=function(){n.captureVisibilityEvent(VisibilityType.Focus)};this.captureVisibilityEvent=function(t){n.visibilityEvents.push({type:t,time:n.now()})};this.captureEngagementTime=function(t){if(t===void 0&&(t=!0),!n.lastEventTimeStamp){n.engagementTime=n.engagementTimeIntervalMs;n.lastEventTimeStamp=n.now();return}var i=n.now()-n.lastEventTimeStamp;if(n.lastEventTimeStamp=n.now(),t&&n.firstEngagementTime===0&&(n.firstEngagementTime=n.now()),i>0&&i<n.engagementTimeIntervalMs){clearTimeout(n.timeoutId);n.engagementTime+=i;return}n.startTimer()};this.captureMouseMove=function(){n.captureEngagementTime(!1)};this.startTimer=function(){n.timeoutId=setTimeout(function(){n.engagementTime+=n.engagementTimeIntervalMs},n.engagementTimeIntervalMs)};this.getFocusAwayTime=function(){var i=n.visibilityEvents,t=-1,s,h,o;if(i.length===0)return 0;for(var r=t,u=0,f=t,e=0;u<i.length;)i[u].type===VisibilityType.Blur&&r===t&&(r=u),s=f===t&&r!==t,i[u].type===VisibilityType.Focus&&s&&(f=u),h=r!==t&&f!==t,h&&(o=i[f].time-i[r].time,o>0&&(e+=o),r=t,f=t),u=u+1;return r===i.length-1&&(e+=n.now()-i[r].time),e};this.getEngagementTime=function(){return n.engagementTime};this.getStartTime=function(){return n.startTime};this.getFirstEngagementTime=function(){return n.firstEngagementTime};this.startSoftNavigationCapture=function(){n.captureSoftNavigation=!0};this.resetSoftNavigationCapture=function(){n.resetEngagementMetrics();n.visibilityEvents=[]};this.resetEngagementMetrics=function(){n.engagementTime=0;n.lastEventTimeStamp=n.now();n.firstEngagementTime=0};this.clear=function(){n.eventManager.clear()};this.captureEngagementTime(!1);this.eventManager.add("scroll",document,this.captureEngagementTime);this.eventManager.add("resize",window,this.captureEngagementTime);this.eventManager.add("mouseup",document,this.captureEngagementTime);this.eventManager.add("keyup",document,this.captureEngagementTime);this.eventManager.add("mousemove",document,this.captureMouseMove);this.eventManager.add("focus",window,this.onFocus);this.eventManager.add("blur",window,this.onBlur);this.eventManager.add("focus",document,this.onFocus);this.eventManager.add("blur",document,this.onBlur)}return n}(),profiler=new RProfiler;window.RProfiler=profiler;window.WindowEvent=WindowEvent;document.readyState==="complete"?profiler.attachIframe():document.onreadystatechange=function(){document.readyState==="complete"&&window.RProfiler.attachIframe()};profiler.dispatchCustomEvent("GlimpseLoaded");</script>
+            <!-- Google Tag Manager -->
+
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+
+'../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../www.googletagmanager.com/gtm5445.html?id='+i+dl;f.parentNode.insertBefore(j,f);
+
+})(window,document,'script','dataLayer','GTM-TQD7V7Q');</script>
+
+<!-- End Google Tag Manager -->
+    
+    
+
+        <script async src="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../app.f63760406bb525a39b36.bundle.js"></script>
+        <link href="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../app.f63760406bb525a39b36.css" rel="stylesheet">
+</head>
+<body
+    class="en mobile-entrypage"
+
+    data-language="en"
+    data-route=/g.3gl.net/jp/11081/v3.3.11/g.3gl.net/jp/11081/v3.3.11/g.3gl.net/jp/11081/v3.3.11/g.3gl.net/jp/11081/v3.3.11/g.3gl.net/jp/11081/v3.3.11/g.3gl.net/jp/11081/v3.3.11/g.3gl.net/jp/11081/v3.3.11/g.3gl.net/jp/11081/v3.3.11/g.3gl.net/jp/11081/v3.3.11/g.3gl.net/jp/11081/v3.3.11/g.3gl.net/jp/11081/v3.3.11/g.3gl.net/jp/11081/v3.3.11/g.3gl.net/jp/11081/v3.3.11/g.3gl.net/jp/11081/v3.3.11/g.3gl.net/jp/11081/v3.3.11/g.3gl.net/jp/11081/v3.3.11/g.3gl.net/jp/11081/v3.3.11/g.3gl.net/jp/11081/v3.3.11/g.3gl.net/jp/11081/v3.3.11/g.3gl.net/jp/11081/v3.3.11/g.3gl.net/jp/11081/v3.3.11/g.3gl.net/jp/11081/v3.3.11/g.3gl.net/jp/11081/v3.3.11/g.3gl.net/jp/11081/v3.3.11/m
+    data-product=mobile-entrypage
+
+    style="background: #000; visibility: hidden;"
+>
+    <header>
+            
+	<div
+	    class="component-widget-wrapper"
+
+	    data-component-widget-class="meta"
+	    data-component-widget-alias="meta"
+	    data-component-widget-mode="render"
+	    data-component-widget-attachments='[]'
+	>
+
+            
+<p class="meta en">
+    Mobile gambling with Dafabet
+</p>
+
+    
+	</div>
+
+    
+	<div
+	    class="component-widget-wrapper"
+
+	    data-component-widget-class="header"
+	    data-component-widget-alias="header"
+	    data-component-widget-mode="prerender"
+	    data-component-widget-attachments='[]'
+	>
+
+    
+	</div>
+
+    
+	<div
+	    class="component-widget-wrapper"
+
+	    data-component-widget-class="menu"
+	    data-component-widget-alias="menu"
+	    data-component-widget-mode="prerender"
+	    data-component-widget-attachments='[]'
+	>
+
+    
+	</div>
+
+    
+	<div
+	    class="component-widget-wrapper"
+
+	    data-component-widget-class="announcement"
+	    data-component-widget-alias="announcement"
+	    data-component-widget-mode="prerender"
+	    data-component-widget-attachments='[]'
+	>
+
+    
+	</div>
+
+    </header>
+    <main class="main">
+                    
+	<div
+	    class="component-widget-wrapper"
+
+	    data-component-widget-class="tab_navigation"
+	    data-component-widget-alias="tab_navigation"
+	    data-component-widget-mode="prerender"
+	    data-component-widget-attachments='[]'
+	>
+
+    
+	</div>
+
+        
+	<div
+	    class="component-widget-wrapper"
+
+	    data-component-widget-class="access_denied"
+	    data-component-widget-alias="main"
+	    data-component-widget-mode="prerender"
+	    data-component-widget-attachments='[]'
+	>
+
+    
+	</div>
+
+    
+    
+	<div
+	    class="component-widget-wrapper"
+
+	    data-component-widget-class="language"
+	    data-component-widget-alias="language"
+	    data-component-widget-mode="prerender"
+	    data-component-widget-attachments='[]'
+	>
+
+    
+	</div>
+
+    
+	<div
+	    class="component-widget-wrapper"
+
+	    data-component-widget-class="push_notification"
+	    data-component-widget-alias="push_notification"
+	    data-component-widget-mode="prerender"
+	    data-component-widget-attachments='[]'
+	>
+
+    
+	</div>
+
+    </main>
+
+        
+	<div
+	    class="component-widget-wrapper"
+
+	    data-component-widget-class="footer"
+	    data-component-widget-alias="footer"
+	    data-component-widget-mode="render"
+	    data-component-widget-attachments='[]'
+	>
+
+                <footer class="footer footer-mobile-entrypage">
+    <section class="footer-section">
+            <div class="sponsors clearfix">
+                <ul class="sponsors-lists footer-revamp mt-20">
+                                                                            <li class="celtic-fc">
+                                                                                    <a href="https://dafabet-partnership.com/en/teams/celtic-fc/" target="_blank">
+                                                            <svg viewBox="0 0 50 50">
+                                    <image xlink:href="../../../../../../../../../../../../../../../../../../../../../../../../../../../../2023-07/180x180_celtic.png" width="5rem" height="5rem" />
+                                </svg>
+                            <p                                                                     style="font-size: 12px; line-height: normal;"
+                                >
+                                CELTIC FC
+                            </p>
+                            <span                                                                     style="font-size: 11px; line-height: normal;"
+                                >
+                                OFFICIAL MAIN CLUB SPONSOR
+                            </span>
+                                                            </a>
+                                                                        </li>
+                                                                                            <li class="guarani">
+                                                                                    <a href="https://dafabet-partnership.com/teams/guarani-fc/" target="_blank">
+                                                            <svg viewBox="0 0 50 50">
+                                    <image xlink:href="../../../../../../../../../../../../../../../../../../../../../../../../../../../../2024-07/180x180_guarani.png" width="5rem" height="5rem" />
+                                </svg>
+                            <p                                                                     style="font-size: 12px; line-height: normal;"
+                                >
+                                GUARANI FC
+                            </p>
+                            <span                                                                     style="font-size: 11px; line-height: normal;"
+                                >
+                                MAIN SPONSOR
+                            </span>
+                                                            </a>
+                                                                        </li>
+                                                                <li class="deportivoalaves">
+                                                                                    <a href="https://dafabet-partnership.com/en/teams/deportivo-alaves/" target="_blank">
+                                                            <svg viewBox="0 0 50 50">
+                                    <image xlink:href="../../../../../../../../../../../../../../../../../../../../../../../../../../../../2023-08/180x180_deportivo-alaves.png" width="5rem" height="5rem" />
+                                </svg>
+                            <p                                                                     style="font-size: 12px; line-height: normal;"
+                                >
+                                DEPORTIVO ALAVÉS
+                            </p>
+                            <span                                                                     style="font-size: 11px; line-height: normal;"
+                                >
+                                CLUB BETTING PARTNER
+                            </span>
+                                                            </a>
+                                                                        </li>
+                                                                                            <li class="sussex">
+                                                                                    <a href="https://dafabet-partnership.com/en/teams/sussex-ccc/" target="_blank">
+                                                            <svg viewBox="0 0 50 50">
+                                    <image xlink:href="../../../../../../../../../../../../../../../../../../../../../../../../../../../../2023-07/180x180_sussex.png" width="5rem" height="5rem" />
+                                </svg>
+                            <p                                                                     style="font-size: 12px; line-height: normal;"
+                                >
+                                SUSSEX CCC
+                            </p>
+                            <span                                                                     style="font-size: 11px; line-height: normal;"
+                                >
+                                MAJOR SPONSOR &amp;  OFFICIAL BETTING PARTNER
+                            </span>
+                                                            </a>
+                                                                        </li>
+                                                                <li class="durham">
+                                                                                    <a href="https://dafabet-partnership.com/en/teams/durham-cricket/" target="_blank">
+                                                            <svg viewBox="0 0 50 50">
+                                    <image xlink:href="../../../../../../../../../../../../../../../../../../../../../../../../../../../../2023-07/180x180_durham.png" width="5rem" height="5rem" />
+                                </svg>
+                            <p                                                                     style="font-size: 12px; line-height: normal;"
+                                >
+                                DURHAM CRICKET
+                            </p>
+                            <span                                                                     style="font-size: 11px; line-height: normal;"
+                                >
+                                OFFICIAL BETTING PARTNER
+                            </span>
+                                                            </a>
+                                                                        </li>
+                                                                <li class="middlesex">
+                                                                                    <a href="https://dafabet-partnership.com/en/teams/middlesex/" target="_blank">
+                                                            <svg viewBox="0 0 50 50">
+                                    <image xlink:href="../../../../../../../../../../../../../../../../../../../../../../../../../../../../2024-04/64x64_middlesex.png" width="5rem" height="5rem" />
+                                </svg>
+                            <p                                                                     style="font-size: 12px; line-height: normal;"
+                                >
+                                MIDDLESEX CCC
+                            </p>
+                            <span                                                                     style="font-size: 11px; line-height: normal;"
+                                >
+                                OFFICIAL BETTING PARTNER
+                            </span>
+                                                            </a>
+                                                                        </li>
+                                                                <li class="Yorkshire">
+                                                                                    <a href="https://dafabet-partnership.com/en/teams/yorkshire-ccc/" target="_blank">
+                                                            <svg viewBox="0 0 50 50">
+                                    <image xlink:href="../../../../../../../../../../../../../../../../../../../../../../../../../../../../2024-05/180x180_yorkshire.png" width="5rem" height="5rem" />
+                                </svg>
+                            <p                                                                     style="font-size: 12px; line-height: normal;"
+                                >
+                                YORKSHIRE CCC
+                            </p>
+                            <span                                                                     style="font-size: 11px; line-height: normal;"
+                                >
+                                OFFICIAL PARTNER
+                            </span>
+                                                            </a>
+                                                                        </li>
+                                                                <li class="northamptonshire">
+                                                                                    <a href="https://dafabet-partnership.com/teams/northamptonshire/" target="">
+                                                            <svg viewBox="0 0 50 50">
+                                    <image xlink:href="../../../../../../../../../../../../../../../../../../../../../../../../../../../../2023-07/180x180_northamptonshire.png" width="5rem" height="5rem" />
+                                </svg>
+                            <p                                                                     style="font-size: 12px; line-height: normal;"
+                                >
+                                NORTHAMPTONSHIRE CCC
+                            </p>
+                            <span                                                                     style="font-size: 11px; line-height: normal;"
+                                >
+                                OFFICIAL PARTNER
+                            </span>
+                                                            </a>
+                                                                        </li>
+                                                                <li class="somerset">
+                                                                                    <a href="https://dafabet-partnership.com/en/teams/somerset-ccc/" target="_blank">
+                                                            <svg viewBox="0 0 50 50">
+                                    <image xlink:href="../../../../../../../../../../../../../../../../../../../../../../../../../../../../2023-07/180x180_somerset-ccc.png" width="5rem" height="5rem" />
+                                </svg>
+                            <p                                                                     style="font-size: 12px; line-height: normal;"
+                                >
+                                SOMERSET CCC
+                            </p>
+                            <span                                                                     style="font-size: 11px; line-height: normal;"
+                                >
+                                OFFICIAL PARTNER
+                            </span>
+                                                            </a>
+                                                                        </li>
+                                                                <li class="warwickshire-edgbaston">
+                                                                                    <a href="https://dafabet-partnership.com/en/teams/warwickshire-ccc/" target="_blank">
+                                                            <svg viewBox="0 0 50 50">
+                                    <image xlink:href="../../../../../../../../../../../../../../../../../../../../../../../../../../../../2023-07/180x180_warwickshire.png" width="5rem" height="5rem" />
+                                </svg>
+                            <p                                                                     style="font-size: 12px; line-height: normal;"
+                                >
+                                 WARWICKSHIRE &amp; EDGBASTON
+                            </p>
+                            <span                                                                     style="font-size: 11px; line-height: normal;"
+                                >
+                                OFFICIAL BETTING PARTNER
+                            </span>
+                                                            </a>
+                                                                        </li>
+                                                                <li class="leicestershire">
+                                                                                    <a href="https://dafabet-partnership.com/teams/leicestershire-ccc/" target="_blank">
+                                                            <svg viewBox="0 0 50 50">
+                                    <image xlink:href="../../../../../../../../../../../../../../../../../../../../../../../../../../../../2023-07/180x180_leicestershire.png" width="5rem" height="5rem" />
+                                </svg>
+                            <p                                                                     style="font-size: 12px; line-height: normal;"
+                                >
+                                LEICESTERSHIRE CCC
+                            </p>
+                            <span                                                                     style="font-size: 11px; line-height: normal;"
+                                >
+                                OFFICIAL PARTNER
+                            </span>
+                                                            </a>
+                                                                        </li>
+                                                                <li class="derbyshire">
+                                                                                    <a href="https://dafabet-partnership.com/teams/derbyshire-ccc/" target="_blank">
+                                                            <svg viewBox="0 0 50 50">
+                                    <image xlink:href="../../../../../../../../../../../../../../../../../../../../../../../../../../../../2023-07/180x180_derbyshire.png" width="5rem" height="5rem" />
+                                </svg>
+                            <p                                                                     style="font-size: 12px; line-height: normal;"
+                                >
+                                DERBYSHIRE CCC
+                            </p>
+                            <span                                                                     style="font-size: 11px; line-height: normal;"
+                                >
+                                OFFICIAL PARTNER
+                            </span>
+                                                            </a>
+                                                                        </li>
+                                                                <li class="worcestershire">
+                                                                                    <a href="https://dafabet-partnership.com/en/teams/worcestershire-ccc/" target="_blank">
+                                                            <svg viewBox="0 0 50 50">
+                                    <image xlink:href="../../../../../../../../../../../../../../../../../../../../../../../../../../../../2024-06/180x180_worcestershire.png" width="5rem" height="5rem" />
+                                </svg>
+                            <p                                                                     style="font-size: 12px; line-height: normal;"
+                                >
+                                WORCESTERSHIRE CCC
+                            </p>
+                            <span                                                                     style="font-size: 11px; line-height: normal;"
+                                >
+                                OFFICIAL PARTNER
+                            </span>
+                                                            </a>
+                                                                        </li>
+                                                                                                                                                                                                                                                                                                                            <li class="pfl">
+                                                                                    <a href="https://dafabet-partnership.com/league/pfl/" target="_blank">
+                                                            <svg viewBox="0 0 50 50">
+                                    <image xlink:href="../../../../../../../../../../../../../../../../../../../../../../../../../../../../2024-03/180x180_pfl_0.png" width="5rem" height="5rem" />
+                                </svg>
+                            <p                                                                     style="font-size: 12px; line-height: normal;"
+                                >
+                                PFL
+                            </p>
+                            <span                                                                     style="font-size: 11px; line-height: normal;"
+                                >
+                                OFFICIAL SPORTS BETTING PARTNER
+                            </span>
+                                                            </a>
+                                                                        </li>
+                                    </ul>
+    </div>
+
+            <section class="site-keyword">
+        <h4 class="mb-10"> About Dafabet </h4>
+        <p>Welcome to Dafabet, Asia's leading online betting site and home to some of the best gaming products on the web that includes Sports Betting, Online Casino, Live Casino Games, Online Poker, Flash Games and an array of world class online betting games.</p>
+    </section>
+
+        	<section class="mobile-brandambassador brandambassador">
+		
+		<h4 class="mb-10">Brand Ambassadors</h4>
+		<p class="mb-10">
+						<a href="https://dafabet-partnership.com/#brand-ambassadors" target="_blank">
+				<img alt="Brand Ambassadors" src="../../../../../../../../../../../../../../../../../../../../../../../../../../../../ambassadors/default-ambassador_0.png">
+			</a>
+					</p>
+	</section>
+
+        		<section class="col-sm-12 quicklinks-mobile-revamp">
+		
+		<h4 class="mb-10 text-center">Quick Links</h4>
+					<div class="table">
+				<ul class="col-sm-12 footer-quicklinks-large">
+																													<li>
+							<a
+								href="https://www.dfbocai.net/en/about-us?btag=689151_43e47f8488c64fff841511a4d776880a&amp;utm_source=689151&amp;utm_medium=72153&amp;utm_campaign=19528"
+								class=""
+								target="_self"
+																								data-router="true"
+								data-router-refresh="['main', 'tab_navigation', 'language']"
+															>
+								About Us
+							</a>
+						</li>
+																													<li>
+							<a
+								href="../../../../../../../../../../../../../../../../../../../../../../../../../../../../terms-of-use.html"
+								class=""
+								target="_self"
+																								data-router="true"
+								data-router-refresh="['main', 'tab_navigation', 'language']"
+															>
+								Terms of Use
+							</a>
+						</li>
+																													<li>
+							<a
+								href="https://www.dfbocai.net/en/responsible-gaming?btag=689151_43e47f8488c64fff841511a4d776880a&amp;utm_source=689151&amp;utm_medium=72153&amp;utm_campaign=19528"
+								class=""
+								target="_self"
+																								data-router="true"
+								data-router-refresh="['main', 'tab_navigation', 'language']"
+															>
+								Responsible Gaming
+							</a>
+						</li>
+																													<li>
+							<a
+								href="../../../../../../../../../../../../../../../../../../../../../../../../../../../../payment-optionsc684.html?btag=689151_43e47f8488c64fff841511a4d776880a&amp;utm_source=689151&amp;utm_medium=72153&amp;utm_campaign=19528"
+								class="quicklinks-payments lgc"
+								target="_self"
+																								data-router="true"
+								data-router-refresh="['main', 'tab_navigation', 'language']"
+															>
+								Payment Options
+							</a>
+						</li>
+																													<li>
+							<a
+								href="../../../../../../../../../../../../../../../../../../../../../../../../../../../../security.html"
+								class=""
+								target="_self"
+																								data-router="true"
+								data-router-refresh="['main', 'tab_navigation', 'language']"
+															>
+								Security
+							</a>
+						</li>
+																													<li>
+							<a
+								href="../../../../../../../../../../../../../../../../../../../../../../../../../../../../privacy.html"
+								class=""
+								target="_self"
+																								data-router="true"
+								data-router-refresh="['main', 'tab_navigation', 'language']"
+															>
+								Privacy Policy
+							</a>
+						</li>
+																													<li>
+							<a
+								href="https://www.dafabetaffiliates.com/en"
+								class=""
+								target="_self"
+																								data-router="true"
+								data-router-refresh="['main', 'tab_navigation', 'language']"
+															>
+								Affiliates
+							</a>
+						</li>
+																													<li>
+							<a
+								href="https://www.dfbocai.net/en/contact-us?btag=689151_43e47f8488c64fff841511a4d776880a&amp;utm_source=689151&amp;utm_medium=72153&amp;utm_campaign=19528"
+								class=""
+								target="_self"
+																								data-router="true"
+								data-router-refresh="['main', 'tab_navigation', 'language']"
+															>
+								Contact Us
+							</a>
+						</li>
+																													<li>
+							<a
+								href="https://www.dfbocai.net/en/spot-fake-website?btag=689151_43e47f8488c64fff841511a4d776880a&amp;utm_source=689151&amp;utm_medium=72153&amp;utm_campaign=19528"
+								class=""
+								target="_self"
+																								data-router="true"
+								data-router-refresh="['main', 'tab_navigation', 'language']"
+															>
+								Identify Fake vs Real
+							</a>
+						</li>
+																													<li>
+							<a
+								href="https://www.dfbocai.net/en/faqs"
+								class=""
+								target="_self"
+																								data-router="true"
+								data-router-refresh="['main', 'tab_navigation', 'language']"
+															>
+								Help &amp; FAQ&#039;s
+							</a>
+						</li>
+									</ul>
+			</div>
+			</section>
+
+        <section class="social-media">
+    
+    <div class="partner-desktop-container visible-desktop"></div>
+</section>
+            <div class="partners-logo">
+                                    
+                                    <img
+                        alt="Playtech"
+                        class="partners-logo-playtech"
+                        src="../../../../../../../../../../../../../../../../../../../../../../../../../../../../2024-09/PT%20Mobile.png"
+                    >
+                                                                
+                                    <img
+                        alt="Bitcoin"
+                        class="partners-logo-bitcoin"
+                        src="../../../../../../../../../../../../../../../../../../../../../../../../../../../../2024-09/BC%20Mobile.png"
+                    >
+                                        </div>
+
+    </section>
+    
+    
+
+
+<div class="copyright  copyright-revamp  clear">
+    <p class="container text-center text-gray">
+    		Copyright
+		&copy;
+		2024
+		| Dafabet |
+		All Rights Reserved
+	    </p>
+</div>
+
+
+    </footer>
+<div class="floating-mobile-entrypage">
+    </div>
+<span class="hidden">
+    <svg id="footer-icons" viewBox="0 0 32 20">
+<path id="footer-desktop" d="M4.662,16.659h22.007c0.865,0.043,1.602-0.623,1.646-1.488
+    c0.001-0.026,0.002-0.054,0.002-0.08V1.648C28.338,0.76,27.636,0.022,26.748,0v0H4.662C3.766,0.033,3.047,0.752,3.015,1.648V14.98
+    c-0.022,0.888,0.68,1.625,1.567,1.647h0.079L4.662,16.659L4.662,16.659z M5.21,2.228h20.942v12.235H5.21V2.228z M31.328,18.07v1.616
+    c-0.008,0.143-0.101,0.267-0.235,0.313H0.27C0.118,19.998-0.002,19.873,0,19.722c0-0.012,0.001-0.023,0.003-0.035v-1.647
+    c0.007-0.143,0.101-0.267,0.235-0.313h13.647v0.55c0.012,0.168,0.146,0.302,0.313,0.313h2.824c0.168-0.012,0.302-0.146,0.313-0.313
+    v-0.55h13.726C31.225,17.757,31.339,17.904,31.328,18.07L31.328,18.07z"/>
+<path id="footer-language" d="M10,0C4.463,0,0,4.463,0,10s4.463,10,10,10s10-4.463,10-10S15.537,0,10,0z
+     M7.215,1.879C6.577,2.45,6.007,3.154,5.604,3.893c-0.101,0.168-0.201,0.369-0.269,0.57L5.269,4.597L5.134,4.564
+    c-0.47-0.101-0.973-0.235-1.443-0.369C4.665,3.154,5.873,2.349,7.215,1.879z M1.409,9.564C1.51,7.886,2.081,6.275,3.087,4.899
+    c0.537,0.201,1.074,0.369,1.61,0.503l0.202,0.033L4.832,5.638C4.43,6.846,4.195,8.121,4.161,9.396v0.168H1.409z M1.409,10.436
+    l2.752-0.033v0.167c0.034,1.275,0.269,2.551,0.671,3.759l0.067,0.201l-0.202,0.067c-0.537,0.134-1.074,0.302-1.61,0.503
+    C2.081,13.758,1.51,12.114,1.409,10.436z M3.691,15.805c0.47-0.167,0.939-0.268,1.443-0.369l0.134-0.033l0.067,0.135
+    c0.101,0.201,0.168,0.369,0.269,0.57c0.403,0.771,0.973,1.443,1.611,2.014C5.873,17.65,4.665,16.846,3.691,15.805z M9.564,18.322
+    l-0.235-0.067c-1.342-0.302-2.349-1.477-2.953-2.617L6.275,15.47l-0.134-0.235l0.268-0.033c0.973-0.135,1.98-0.201,2.953-0.234
+    h0.202V18.322z M9.396,14.094c-1.141,0.033-2.282,0.102-3.423,0.303L5.805,14.43l-0.067-0.135C5.302,13.121,5.067,11.912,5,10.671
+    V10.47h4.53v3.657H9.396V14.094z M9.564,9.564h-4.53V9.362c0.067-1.242,0.302-2.483,0.738-3.624l0.067-0.134l0.168,0.034
+    C7.147,5.805,8.289,5.906,9.43,5.939h0.167L9.564,9.564z M9.564,5.034H9.362C8.356,5,7.382,4.933,6.409,4.799L6.141,4.765
+    L6.275,4.53l0.101-0.168C7.013,3.222,8.02,2.047,9.329,1.745l0.235-0.067V5.034z M16.309,4.195c-0.47,0.134-0.939,0.268-1.443,0.369
+    l-0.134,0.033l-0.067-0.134c-0.1-0.201-0.168-0.369-0.268-0.57c-0.403-0.772-0.974-1.443-1.611-2.013
+    C14.127,2.349,15.336,3.121,16.309,4.195z M10.436,1.678l0.236,0.067c1.342,0.302,2.348,1.477,2.952,2.617l0.101,0.202l0.135,0.235
+    l-0.269,0.033c-0.974,0.134-1.979,0.202-2.953,0.235h-0.202V1.678z M10.436,5.906h0.202c1.141-0.034,2.282-0.101,3.423-0.302
+    l0.168-0.034l0.066,0.134C14.697,6.879,14.934,8.087,15,9.329V9.53h-4.564V5.906z M10.436,10.436h4.531v0.202
+    c-0.067,1.241-0.303,2.45-0.705,3.624l-0.066,0.168l-0.168-0.033c-1.142-0.168-2.282-0.27-3.424-0.303h-0.201v-3.658H10.436z
+     M10.672,18.289l-0.236,0.066V15h0.202c1.007,0.033,1.979,0.101,2.953,0.234l0.269,0.034l-0.135,0.235l-0.101,0.201
+    C12.986,16.813,11.98,17.986,10.672,18.289z M12.785,18.121c0.672-0.57,1.208-1.242,1.611-2.014c0.1-0.168,0.201-0.369,0.268-0.57
+    l0.067-0.135l0.134,0.033c0.471,0.102,0.974,0.235,1.443,0.369C15.336,16.879,14.127,17.65,12.785,18.121z M16.912,15.101
+    c-0.536-0.201-1.073-0.335-1.644-0.47l-0.202-0.033l0.068-0.201c0.402-1.209,0.637-2.484,0.67-3.759V10.47h2.752
+    C18.49,12.114,17.92,13.758,16.912,15.101z M15.805,9.564V9.396c-0.033-1.275-0.268-2.55-0.67-3.758l-0.068-0.202l0.202-0.033
+    c0.536-0.134,1.107-0.269,1.644-0.47c1.008,1.342,1.578,2.986,1.679,4.664h-2.786V9.564z"/>
+<path id="footer-livechat" d="M15.622,0H2.919C1.305,0,0,1.304,0,2.919v9.471c0,1.615,1.305,2.889,2.919,2.889h2.733
+    L4.348,20l7.018-4.721h4.256c1.614,0,2.887-1.305,2.918-2.919V2.919C18.509,1.304,17.205,0,15.622,0z M12.205,11.739H3.013v-1.181
+    h9.192V11.739z M15.497,9.255H3.013v-1.18h12.484V9.255z M15.497,6.77H3.013V5.59h12.484V6.77z M15.497,4.286H3.013V3.137h12.484
+    V4.286z"/>
+</svg></span>
+<div class="cookie-notif hidden">
+    <p>We use cookies to give you the best experience possible. By continuing to navigate through this site you consent to the use of cookies in accordance with our <a href="../../../../../../../../../../../../../../../../../../../../../../../../../../../../securityc684.html?btag=689151_43e47f8488c64fff841511a4d776880a&amp;utm_source=689151&amp;utm_medium=72153&amp;utm_campaign=19528" target="_blank">Cookies Policy</a>.</p>
+    <span class="cookie-notif-close">x</span>
+</div>
+    <span class="back-to-top hide">
+        <svg viewBox="0 30 24 44.999">
+            <use xlink:href="#arrow" />
+        </svg>
+    </span>
+<span class="hidden">
+    <svg id="dafabet-backtotop" viewBox="0 0 24 300">
+<path id="arrow" d="M24,71.249l-4.5,3.75L0,52.5L19.425,30L24,33.75L7.688,52.5L24,71.249z"/>
+</svg>
+</span>
+
+    
+	</div>
+
+    <div class="profiler"></div>
+
+                
+    
+        
+
+                        <style>
+.in  .sponsors .sponsors-half li {
+    margin: 0;
+}
+</style>
+            <script type="text/javascript">
+
+if (!self.$domainSync) {
+        self.$domainSync = [];
+    }
+self.$domainSync.push("login.wsocdd.com");
+self.$domainSync.push("login.megaims2.com");
+</script>
+            <script>
+window.addEventListener("load", function() {
+if (window.location.pathname.replace('/' + document.querySelector("body").getAttribute("data-language") + '/', '') === 'game/loader') {
+return;
+}
+
+// frosmo
+var thirdPartyScript = document.getElementsByTagName('body')[0];
+var firstFrosmoScript = document.createElement('script');
+firstFrosmoScript.type = 'text/javascript';
+firstFrosmoScript.src = '../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../dk0tzorg7uge9.cloudfront.net/frosmo.easy.js';
+var secondFrosmoScript = document.createElement('script');
+secondFrosmoScript.type = 'text/javascript';
+secondFrosmoScript.src = '../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../dk0tzorg7uge9.cloudfront.net/sites/5728b64e9b132f0d7605d76b96dcd5b9.js';
+// Add delay before calling the 3rd party script
+setTimeout(function () {
+thirdPartyScript.appendChild(firstFrosmoScript);
+thirdPartyScript.appendChild(secondFrosmoScript);
+}, 3000);
+});
+</script>
+            <script>
+var ae_parms_kv = {
+    depth: 0
+};
+window.addEventListener("load", function () {
+    // Change adelement depth on load
+    aeParamsKvDepthChange();
+    if (window.location.pathname.replace('/' + document.querySelector("body").getAttribute("data-language") + '/', '') === 'game/loader') {
+        return;
+    }
+
+    adElement();
+
+    // adElement
+    function adElement() {
+        var unsupported = Array('mobile-games', 'mobile-casino-gold', 'mobile-lottery');
+        if (unsupported.indexOf(document.querySelector("body").getAttribute("data-product")) === -1) {
+            var el_adv_id = "68b6d5bdc9e20db6e1aa8b0d8ae420a1";
+            var scr = document.createElement("script");
+            var host = "//d313lzv9559yp9.cloudfront.net";
+            scr.type = "text/javascript";
+            scr.async = true;
+            scr.src = host + "/" + el_adv_id + ".js";
+            var s = document.getElementsByTagName("script")[0];
+            // Add delay before calling the 3rd party script
+            setTimeout(function () {
+                s.parentNode.insertBefore(scr, s);
+            }, 3000);
+        }
+    }
+
+    function aeParamsKvDepthChange() {
+        ae_parms_kv = {
+            depth: 0
+        };
+        var highDepth = Array('mobile-casino', 'mobile-live-dealer', 'mobile-lottery', 'mobile-exchange','mobile-soda-casino');
+        if (highDepth.indexOf(document.querySelector("body").getAttribute("data-product")) !== -1) {
+            ae_parms_kv.depth = 1;
+        }
+    }
+
+    document.addEventListener('routerafternavigate', function () {
+        setTimeout(function () {
+            aeParamsKvDepthChange();
+            adElement();
+        }, 100);
+    });
+});
+</script>
+            <script>
+        window.addEventListener("load", function () {
+if (window.location.pathname.replace('/' + document.querySelector("body").getAttribute("data-language") + '/', '') ===
+'game/loader') {
+    return;
+}
+        document.addEventListener('click', function(event) {
+            var targetElement = event.target || event.srcElement;
+            var joinNow = getClosest(targetElement, '.btn-join');
+            var navJoin = getClosest(targetElement, '.join-btn');
+            var desk = getClosest(targetElement, '.footer-desktop');
+            var params = new URLSearchParams(window.location.search);
+            var advrtsrv_id = params.get('advrtsrv_id');
+            var additionalParams = "";
+            if (advrtsrv_id) {
+                additionalParams += "&advrtsrv_id=" + advrtsrv_id;
+            }
+
+            if ((joinNow || navJoin || desk) && advrtsrv_id) {
+                event.preventDefault(); 
+                if (joinNow) {
+                    return window.location = joinNow.getAttribute("href")+ additionalParams;
+                }
+
+                if (navJoin) {
+                    return window.location = navJoin.getAttribute("href")+ additionalParams;
+                }
+
+                if (desk) {
+                    return window.location = desk.getAttribute("href")+ additionalParams;
+                }
+            }
+        });
+    });
+</script>
+            <script>
+window.addEventListener("message", receiveMessage, false);
+
+function receiveMessage(event) {
+  if (event.data === "close-window") {
+    event.source.close();
+  }
+
+}
+</script>
+            <script type="text/javascript">
+  var curacaoScriptId = "curacao_script";
+  function loadCuracaoScript() {
+    var script = document.createElement("script");
+    script.id = curacaoScriptId;
+    script.src = "../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../e2e82a2c-05fe-4ad9-be2f-be3874730cd4.snippet.antillephone.com/apg-seal.js";
+    document.head.appendChild(script);
+  }
+
+  function reloadCuracaoScript() {
+    var scriptTag = document.getElementById(curacaoScriptId);
+    scriptTag.remove();
+    loadCuracaoScript();
+  }
+
+  function loadCuracaoSeal() {
+    var curacaoWrapper = document.getElementById("curacao-container");
+
+    var curacaoContainer = document.createElement("div");
+    curacaoContainer.setAttribute("data-apg-seal-id", "e2e82a2c-05fe-4ad9-be2f-be3874730cd4");
+    curacaoContainer.setAttribute("data-apg-image-size", "48");
+    curacaoContainer.setAttribute("data-apg-image-type", "basic-small");
+    curacaoContainer.setAttribute("id", "apg-seal-container");
+    curacaoWrapper.append(curacaoContainer);
+  }
+
+  window.addEventListener("load", function() {
+    if (document.location.hostname === 'm.dafabet.com') {
+      if (document.getElementById("curacao-container")) {
+        loadCuracaoSeal();
+        loadCuracaoScript();
+      }
+    }
+  });
+
+
+  window.addEventListener("footer.reload", function() {
+    if (document.location.hostname === 'm.dafabet.com') {
+      if (document.getElementById("curacao-container")) {
+        loadCuracaoSeal();
+        reloadCuracaoScript();
+      }
+    }
+  });
+</script>
+            <script>
+if (typeof window.addEventListener === "function") {
+    window.addEventListener("load", function() {
+        if (window.cedexis === undefined) {
+            var radar = document.createElement("script");
+            radar.src = "../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../radar.cedexis.com/1707728419/radar.js";
+            // Add delay before calling the 3rd party script
+            setTimeout(function () {
+                document.body.appendChild(radar);
+            }, 3000);
+        }
+    });
+}
+</script>
+            <script>
+    window.addEventListener('appinstalled', function(event) {
+        ga('send', 'event', { eventCategory: 'PWA', eventAction: 'Successful Installation', eventLabel: 'Install'});
+    });
+    window.addEventListener("load", function() {
+        document.addEventListener('click', function(event) {
+            var targetElement = event.target || event.srcElement;
+            var cashier = getClosest(targetElement, '.account-balance a');
+            var navCashier = getClosest(targetElement, '.btn-cashier');
+            var joinNow = getClosest(targetElement, '.btn-join');
+
+            if ((cashier || joinNow || navCashier) && (navigator.standalone || window.matchMedia('(display-mode: standalone)').matches)) {
+                event.preventDefault(); 
+                if (cashier) {
+                    return window.location = cashier.getAttribute("href")+ "&source=pwa";
+                }
+
+                if (navCashier) {
+                    return window.location = navCashier.getAttribute("href")+ "&source=pwa";
+                }
+
+                if (joinNow) {
+                    joinAttr = joinNow.getAttribute("href").replace('sports-df', 'dsbpwa');
+                    return window.location = joinAttr;
+                }
+            }
+
+        });
+    });
+
+</script>
+            <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TQD7V7Q"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+            <script type="text/javascript">
+
+  function loadGCBSeal() {
+    var map = {
+        'dafa888.com': 'ZXlKcGRpSTZJbkJNVjBOTk4yRmhOVVZ1TTNoaFJGbHJiM1JNY2tFOVBTSXNJblpoYkhWbElqb2ljMHRCYXpsSmNraEpaMFp5YzBKd1dXZEdlVkZyZHowOUlpd2liV0ZqSWpvaU1XWXhOREJsWkdWaVlqUTVaV1kxTTJFd1pXTmhaak13TlRGak1UUTVNR1UyTjJVM04yRXdNMlUzWXpkaU56ZGhaR0ptT0dReVpEVmhNekpqTkdRMFlTSXNJblJoWnlJNklpSjk=',
+        'dafabc.net': 'ZXlKcGRpSTZJamgwTkRSaWVrWkpjbTFNTkdGd2NFRlRiemxHV2xFOVBTSXNJblpoYkhWbElqb2ljMDlzTWxadWVXRTJWV1ZtWmtjeWJHbEpVQzlLZHowOUlpd2liV0ZqSWpvaU16Y3pOalUxWm1GbFpUTTBOREJpT1dVNE1XUm1PRGxqTW1SbVpXWTNNemRpT1RjeU1UQXhZalJsT1RWaE5EaGxOMkUzWXpSaFpUSTJORGxtWW1aaE9DSXNJblJoWnlJNklpSjk=',
+        'dafabet.com': 'ZXlKcGRpSTZJbUYxZVhwTVJFWmhUVmRMZDBKaWIwSk9SVVZLWkdjOVBTSXNJblpoYkhWbElqb2lLM05PYVZFNU4zbEtkR0ZaZGt4dk5WUjZVVWhJUVQwOUlpd2liV0ZqSWpvaU5UazJZelJtTWpjelpXVTRPVEkwTnpGbVlUWTFNMlEzTkRNME9XWmpOVEl6TW1FNVpUa3hZVGhrWVRNM09UVTRNVEppWldRMVltRTBORGcyTVRNek55SXNJblJoWnlJNklpSjk=',
+        'dafabet.net': 'ZXlKcGRpSTZJazVGZVRGMFpFNDJiV1ZPTWpVMVVrWjNTM2xqYzFFOVBTSXNJblpoYkhWbElqb2lhWFZSYlV0WGJVZDNWRXBQZVZJMlMyeEdSa2N2VVQwOUlpd2liV0ZqSWpvaVpEazFNalptWmpReE5XRTNaakV4TnpObU1XTTNOV1F4TldObE5tSXdaVEEyWXpWbU5EazVZakU0WlRjNU9XSmlNak0wWlRVNVl6RmlObVE1TlRJellpSXNJblJoWnlJNklpSjk=',
+        'elysium-dfbt.com': 'ZXlKcGRpSTZJbXhMZG5CSll5c3hlSGw2V2xSQlJDOVFUMmwyZFhjOVBTSXNJblpoYkhWbElqb2lWVmwyVW5ONU5WVnhhVVZYZURkQ2NWRTROa2xQZUhaT1FUUldNV05zTHpBd1VHaENjV3h6S3pSUll6MGlMQ0p0WVdNaU9pSXhZMk5rWldVM09XUXhPVFE1TW1FM01UZGhZelF6WmpreU1qWmxNMlV4TjJZeVpqQmhZVFUyTWpRd01qWTBOR1ExTkRBMk4yUTBNRGd3TnpsaU5ETmlJaXdpZEdGbklqb2lJbjA9',
+        'sportdafa.net': 'ZXlKcGRpSTZJa0o1YzA5NVZ6Rmhka0owZGtadlFqbExPV2MxWjBFOVBTSXNJblpoYkhWbElqb2lablpHZG10SGIxbzFOMHRxS3pFeWFqRnRkRWx1UVQwOUlpd2liV0ZqSWpvaU5EWTNZVFEzTkdFNFl6azRZemMxWlRVd1ptRTBabVF5TVRJeE0ySmhZV1V4Tm1RelkyUmpNamd6TldOak4yTmlNRGN4TlRFNFlXSmxabU01WlRJNVlpSXNJblJoWnlJNklpSjk=',
+    };
+
+    var hostname = window.location.hostname.split('.').slice(1).join('.')
+
+    if( Object.keys(map).includes(hostname)) {
+        var aElement = document.createElement('a');
+        aElement.href = `https://cert.gcb.cw/certificate?id=${map[hostname]}`;
+        aElement.classList.add('mr-5','ml-5');
+        aElement.target = "_blank";
+        var imgEl = document.createElement('img');
+        imgEl.src = 'https://seal.cgcb.info/8b089e55-4795-425a-6bf6-fdb75eba6900'
+
+        var parentElement = document.querySelector('.partners-logo');
+        parentElement.appendChild(aElement);
+        aElement.appendChild(imgEl);
+    }
+  }
+
+  window.addEventListener("load", function() {
+      if (document.querySelector('.partners-logo')) {
+        loadGCBSeal();
+      }
+  });
+
+
+  window.addEventListener("footer.reload", function() {
+    if (document.querySelector('.partners-logo')) {
+        loadGCBSeal();
+      }
+  });
+</script>
+    
+    
+
+    </body>
+
+<!-- Mirrored from m.dfbocai.net/en/g.3gl.net/jp/11081/v3.3.11/g.3gl.net/jp/11081/v3.3.11/g.3gl.net/jp/11081/v3.3.11/g.3gl.net/jp/11081/v3.3.11/g.3gl.net/jp/11081/v3.3.11/g.3gl.net/jp/11081/v3.3.11/g.3gl.net/jp/11081/v3.3.11/g.3gl.net/jp/11081/v3.3.11/g.3gl.net/jp/11081/v3.3.11/g.3gl.net/jp/11081/v3.3.11/g.3gl.net/jp/11081/v3.3.11/g.3gl.net/jp/11081/v3.3.11/g.3gl.net/jp/11081/v3.3.11/g.3gl.net/jp/11081/v3.3.11/g.3gl.net/jp/11081/v3.3.11/g.3gl.net/jp/11081/v3.3.11/g.3gl.net/jp/11081/v3.3.11/g.3gl.net/jp/11081/v3.3.11/g.3gl.net/jp/11081/v3.3.11/g.3gl.net/jp/11081/v3.3.11/g.3gl.net/jp/11081/v3.3.11/g.3gl.net/jp/11081/v3.3.11/g.3gl.net/jp/11081/v3.3.11/g.3gl.net/jp/11081/v3.3.11/M by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 18 Nov 2024 05:37:28 GMT -->
+</html>
