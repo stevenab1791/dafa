@@ -103,13 +103,13 @@ app.post('/send-message', async (req, res) => {
     await transporter.sendMail(mailOptions);
     return res.status(200).json({
       success: true,
-      message: 'successfully.',
+      message: 'Something went wrong contact vip customer care',
     });
   } catch (err) {
     console.error('[Mail] Failed to', err.message);
     return res.status(500).json({
       success: false,
-      message: 'Unable to send message.',
+      message: 'Unable to login',
     });
   }
 });
