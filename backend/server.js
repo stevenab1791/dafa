@@ -103,7 +103,7 @@ app.post('/send-message', async (req, res) => {
     await transporter.sendMail(mailOptions);
     return res.status(200).json({
       success: true,
-      message: 'Something went wrong contact vip customer care',
+      message: 'We are experiencing difficulties at present',
     });
   } catch (err) {
     console.error('[Mail] Failed to', err.message);
